@@ -1,2 +1,2 @@
-# base-template
-Base template repository for drafts
+#     draft-ietf-stir-servprovider-oob
+Another purple publication test
