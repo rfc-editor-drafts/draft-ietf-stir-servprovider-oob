@@ -7,9 +7,9 @@
     <title abbrev="Service Provider OOB">Out-of-Band Secure Telephone Identity Revisited (STIR) for Service Providers</title>
     <seriesInfo name="RFC" value="9888" stream="IETF"/>
     <author initials="J." surname="Peterson" fullname="Jon Peterson">
-      <organization abbrev="TransUnion" showOnFrontPage="true">TransUnion</organization>
+      <organization abbrev="Union" showOnFrontPage="true">Union</organization>
       <address>
-        <email>jon.peterson@transunion.com</email>
+        <email>jon.peterson@union.com</email>
       </address>
     </author>
     <date month="March" year="2026"/>
